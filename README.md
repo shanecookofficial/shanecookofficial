@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Shane C Cook
-- 👀 I’m interested in learning any coding languages that will help me prepare for my future career as a software engineer
-- 🌱 I’m currently learning Python, JavaScript, JQuery, HTML, CSS, PHP, and SQL
-- 💞️ I’m looking to collaborate on anything that is beginner level since I am still new to programming
-- 📫 The best way to reach me is via email at shanecookofficial@gmail.com
-
-<!---
-shanecookofficial/shanecookofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Hey it's Shane! - Thank you for checking out my page!</h1>
+<p>I am currently a Sophomore at Brigham Young University - Idaho as a full-time remote student projected to graduate in December of 2023. I am a husband to the most amazing woman in the world and father to the cutest little girl.<br><br>I am currently looking for internships that revolve around web development. My family and I live in North Carolina in the Winston-Salem area but we are willing to relocate for the right opportunity. I am also very open to remote work.<br><br>Please feel free to check out my profile, especially the projects I have contributed on. The projects below reflect my web development abilities and soft skills.<br><br>If I look like a good fit for your team, please scroll down to the bottom where my contact information and resume are listed and reach out at your earliest convenience.</P>
+<h2>Projects</h2>
+<ul>
+    <li><em>this is where I will put projects I have worked on</em></li>
+</ul>
+<h2>Education</h2>
+<ul>
+    <li>Bachelor of Science in Software Engineering: Brigham Young University - Idaho (graduating December 2023)</li>
+</ul>
+<h2>Stats</h2>
+<p><em>insert stats here</em></p>
+<h2>Contact Information</h2>
+<p>Email: shane.cook.personal@gmail.com</p>
+<p>LinkedIn</p>
+<p>Resume</p>
