@@ -10,5 +10,5 @@
 </ul>
 <h2>Contact Information</h2>
 <p>Email: shane.cook.personal@gmail.com</p>
-<a href="linkedin.com/in/shanecook/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/shaneccook/">LinkedIn</a>
 <p>Resume</p>
