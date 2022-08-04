@@ -8,9 +8,7 @@
 <ul>
     <li>Bachelor of Science in Software Engineering: Brigham Young University - Idaho (graduating December 2023)</li>
 </ul>
-<h2>Stats</h2>
-<p><em>insert stats here</em></p>
 <h2>Contact Information</h2>
 <p>Email: shane.cook.personal@gmail.com</p>
-<p>LinkedIn</p>
+<a href="linkedin.com/in/shanecook/">LinkedIn</a>
 <p>Resume</p>
