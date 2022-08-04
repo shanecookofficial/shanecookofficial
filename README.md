@@ -12,4 +12,4 @@
 <p>Email: shane.cook.personal@gmail.com</p>
 <a href="https://www.linkedin.com/in/shaneccook/"><img src="LI-Logo.png" width="10%"></img></a>
 
-<a href="test.txt" download>Resume</a>
+<p>Resume</p>
